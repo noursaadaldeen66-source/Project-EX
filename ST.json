@@ -1,0 +1,38 @@
+[
+  {
+    "id": 101,
+    "name": "أحمد",
+    "grades": {
+      "math": 95,
+      "science": 88,
+      "arabic": 92
+    }
+  },
+  {
+    "id": 102,
+    "name": "سارة",
+    "grades": {
+      "math": 85,
+      "science": 90,
+      "arabic": 97
+    }
+  },
+  {
+    "id": 103,
+    "name": "يوسف",
+    "grades": {
+      "math": 78,
+      "science": 82,
+      "arabic": 80
+    }
+  },
+  {
+    "id": 104,
+    "name": "فاطمة",
+    "grades": {
+      "math": 99,
+      "science": 95,
+      "arabic": 94
+    }
+  }
+]
